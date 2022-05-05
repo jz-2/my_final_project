@@ -1,0 +1,45 @@
+site_name: Google Docs guide 
+site_author: Anastasiya Fomina
+
+nav:
+  - Introduction:
+    - About Google Docs: index.md 
+    - Google document structure: src/structure.md
+    - Before getting started: src/practice.md
+  - Work with Google documents: 
+    - Create new documents: src/create.md 
+    - Download files: src/download.md
+    - Set up pages: src/page.md
+    - Print files: src/print.md
+    - Insert images: src/insert.md
+    - Format texts: src/format.md
+    - Share documents: src/share.md
+    - Manage add-ons: src/manage.md
+ 
+      
+
+theme:
+  palette:
+    primary: deep purple
+  name: material
+  logo: 'src/img/logo5.jpg'
+  feature:
+    tabs: false
+  language: 'en'
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.extra
+  - pymdownx.snippets:
+      base_path: docs/src
+    
+plugins:
+  - search
+
+extra_css:
+  - 'stylesheets/extra-page-content.css'
+  - 'https://use.fontawesome.com/releases/v5.7.0/css/all.css'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'
+  
