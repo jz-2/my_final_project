@@ -1,6 +1,6 @@
 ## My Final Project
 ### GoogleDocs Guide
-This is an end-of-course project that represents a short guide on some GoogleDocs functions and tools. The project was created with the help of MkDocs site generator. To see how the site looks like, perform the following actions:
+This is an end-of-course project that represents a short guide on some GoogleDocs options and tools. The project was created with the help of MkDocs site generator. To see how the site looks like, perform the following actions:
 
 1. Download _my_final_project_ folder to your device.
 2. Press **Win + R**.
