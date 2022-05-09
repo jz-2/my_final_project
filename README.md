@@ -11,6 +11,8 @@ This is an end-of-course project that represents a short guide on some GoogleDoc
 7. Press **Enter**.
 8. Type `mkdocs serve`, and then press **Enter**. 
 9. After the documentation is built, copy the site adress.
-![screenshot](src/img/screen_1)
+
+![screenshot](https://github.com/jz-2/my_final_project/blob/main/my_final_project/docs/src/img/screen_1.jpg)
+
 11. Open your browser and paste the site adress into the adress bar.
 12. Press **Enter**. You are redirected to the site.
