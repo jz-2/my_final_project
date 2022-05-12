@@ -4,7 +4,7 @@ This is an end-of-course project that represents a short guide on some GoogleDoc
 
 1. Download _my_final_project_ folder to your device.
 2. Press **Win + R**.
-3. In the open dialog, type **сmd**, and then click **OK**. The command-line interface (CLI) opens.
+3. In the open dialog, type **сmd**, and then click **OK**. The command line interface (CLI) opens.
 4. Open _my_final_project_ folder.
 5. Select the adress in the adress bar, and then press **CTRL + C**.
 6. In the CLI, type `cd`, press SPACEBAR, and paste the folder's adress.
